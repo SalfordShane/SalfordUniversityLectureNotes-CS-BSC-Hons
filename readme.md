@@ -6,7 +6,7 @@ These notes are maintained by students on the courses, not course tutors. These 
 
 #### Module breakdown
 
-Induction (SG-CTM-INDUCT-CS), (2020-09-15 - 2020-09-25)
+* [Induction (SG-CTM-INDUCT-CS), (2020-09-15 - 2020-09-25)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Induction%20(SG-CTM-INDUCT-CS))  
 
 #### Contributing
 
