@@ -1,6 +1,6 @@
 ### Computer Science (Hons) Degree Task Briefing (Eman Nashnush, Tarek Gaber, Laura Milne, Chris Hughes)
 
-_2020-09-17 11:00:00 - 2020-09-17 11:15:00_
+_2020-09-17 11:00:00 - 2020-09-17 12:45:00_
 
 The tutor divided the students in to 6 groups and showed each group a video containing a riddle and asked the students to answer the riddles.
 
