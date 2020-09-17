@@ -15,4 +15,5 @@ The following are lecture notes taken between 2020-09-15 and 2020-09-25 during t
 
 #### 2020-09-17
 
-* [Computer Science (Hons) Task Briefing (Eman Nushnash, Laura Milne, Tarek Gaber, Chris Hughes)](006-degree-task-briefing.md) 
+* [Computer Science (Hons) Task Briefing (Eman Nushnash, Laura Milne, Tarek Gaber, Chris Hughes)](006-degree-task-briefing.md)  
+* [Ethical Hacking Society (Robert Hegarty)](007-ethical-hacking-society.md)
