@@ -7,3 +7,9 @@ The task will be three days long and focusses on employability within a Computer
 To begin, groups should hold a round robin group discussion about the experiences of each group member in computer science, their aspirations and the career they envision. This discussion should be documented in a collaborative document. Students should also document ideas for two collaborative projects.
 
 Students were given a proforma (an example document) to fill out and share with each other - and later, the tutors.
+
+Some information was given about the course at the end of the session:
+
+* There will be no formal exams in the first year, students will be marked based on coursework alone  
+* Students can use personal laptops to access university resources during tutorials  
+* There is a community Discord server created by Tahmid Ahmed: discord.gg/sJ7ggs
