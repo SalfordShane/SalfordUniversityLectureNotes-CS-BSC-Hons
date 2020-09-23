@@ -21,3 +21,7 @@ The following are lecture notes taken between 2020-09-15 and 2020-09-25 during t
 #### 2020-09-22
 
 * [Employability Project Brief (Robert Hegarty, Chris Bryant)](008-employability-project-brief.md)  
+
+#### 2020-09-23
+
+* [Employability Project Day Two (Robert Hegarty, Laura Milne)](009-employability-project-day-two.md)
