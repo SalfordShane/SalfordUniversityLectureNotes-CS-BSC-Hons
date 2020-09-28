@@ -12,6 +12,7 @@ If you are a lecturer who disagrees with the content of a specific note, please 
 * [Programming 1 (SG-G400-10059-41330-21), (2020-09-28 +)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Programming%201%20(SG-G400-10059-41330-21))  
 * [Professional Development and Practices (SG-G400-10047-32744-21), (2020-09-28 +)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Professional%20Development%20and%20Practices%20(SG-G400-10047-32744-21))
 * [Web Development and HCI (SG-G400-10050-33286-21)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Web%20Development%20and%20HCI%20(SG-G400-10050-33286-21))
+* [Database Systems (SG-G400-10045-32741-21)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Database%20Systems%20(SG-G400-10045-32741-21))
 
 #### Contributing
 
