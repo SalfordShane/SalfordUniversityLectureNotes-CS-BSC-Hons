@@ -4,4 +4,5 @@ The following are lecture notes taken after 2020-09-28 during the module "Databa
 
 #### 2020-09-28
 
-* [Introduction to DBS (Chris Bryant)](001-introduction-to-dbs.md)  
+* [Introduction to DBS (Chris Bryant)](001-introduction-to-dbs.md) 
+* [Introduction to DBS - 2 (Chris Bryant)](002-introduction-to-dbs-2.md)  
