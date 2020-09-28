@@ -9,7 +9,8 @@ If you are a lecturer who disagrees with the content of a specific note, please 
 #### Module breakdown
 
 * [Induction (SG-CTM-INDUCT-CS), (2020-09-15 - 2020-09-25)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Induction%20(SG-CTM-INDUCT-CS))  
-* [Programming 1 (SG-G400-10059-41330-21), (2020-09-28 +)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Programming%201%20(SG-G400-10059-41330-21))
+* [Programming 1 (SG-G400-10059-41330-21), (2020-09-28 +)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Programming%201%20(SG-G400-10059-41330-21))  
+* [Professional Development and Practices (SG-G400-10047-32744-21), (2020-09-28 +)](https://github.com/SalfordShane/SalfordUniversityLectureNotes-CS-BSC-Hons/tree/master/Professional%20Development%20and%20Practices%20(SG-G400-10047-32744-21))
 
 #### Contributing
 
