@@ -5,3 +5,7 @@ The following are lecture notes taken after 2020-09-28 during the module "Web De
 #### 2020-09-28
 
 * [Introduction to PDP (Stefan Pletschacher)](001-introduction-to-wdhci.md)  
+
+#### 2020-09-29
+
+* [Structure (Stefan Pletschacher)](002-structure.md)  
