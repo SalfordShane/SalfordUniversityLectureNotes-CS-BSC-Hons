@@ -4,4 +4,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-09-28
 
-* [Introduction to PDP (Nigel Linge)](001-introduction-to-pdp.md)  
+* [Introduction to PDP (Nigel Linge)](001-introduction-to-pdp.md) 
+
+#### 2020-09-29
+
+* [Professionalism (Nigel Linge)](002-professionalism.md) 
