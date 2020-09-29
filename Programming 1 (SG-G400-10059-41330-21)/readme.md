@@ -5,3 +5,7 @@ The following are lecture notes taken after 2020-09-28 during the module "Progra
 #### 2020-09-28
 
 * [Introduction to Programming (David Newton)](001-introduction-to-programming.md)  
+
+#### 2020-09=29
+
+* [INtroduction to Objects (David Newton)](002-introduction-to-objects.md)   
