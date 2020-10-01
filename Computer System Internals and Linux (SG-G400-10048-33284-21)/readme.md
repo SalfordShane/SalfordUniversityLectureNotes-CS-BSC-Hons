@@ -4,4 +4,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-09-29
 
-* [Introduction to CSIL (Norman Murray)](001-introduction-to-csil.md) 
+* [Introduction to CSIL (Norman Murray)](001-introduction-to-csil.md)  
+
+#### 2020-10-01
+
+* [Binary (Norman Murray)](003-binary.md) 
