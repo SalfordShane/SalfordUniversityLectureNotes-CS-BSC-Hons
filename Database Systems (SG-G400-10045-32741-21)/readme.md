@@ -9,4 +9,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Databa
 
 #### 2020-09-30
 
-* [Microsoft Access and SQL (Maher Turifi)](003-microsoft-access-and-sql.md)  
+* [Microsoft Access and SQL (Maher Turifi)](003-microsoft-access-and-sql.md) 
+
+#### 2020-10-05
+
+* [Queries in Relational Databases (Chris Bryant)](004-queries-in-relational-databases.md)  
