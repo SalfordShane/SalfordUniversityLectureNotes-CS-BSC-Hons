@@ -12,4 +12,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-10-05
 
-* [Quality systems and the Law (Nigel Linge)](003-quality-systems-and-the-law.md)   
+* [Quality systems and the Law (Nigel Linge)](003-quality-systems-and-the-law.md)  
+
+#### 2020-10-06
+
+* [Data Protection (Nigel Linge)](004-data-protection.md)   
