@@ -13,4 +13,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Databa
 
 #### 2020-10-05
 
-* [Queries in Relational Databases (Chris Bryant)](004-queries-in-relational-databases.md)  
+* [Queries in Relational Databases (Chris Bryant)](004-queries-in-relational-databases.md) 
+
+#### 2020-10-12
+
+* [More SQL (Chris Bryant)](005-more-sql.md) 
