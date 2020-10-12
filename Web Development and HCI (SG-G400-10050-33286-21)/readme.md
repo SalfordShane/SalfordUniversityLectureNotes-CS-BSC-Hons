@@ -16,4 +16,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Web De
 
 #### 2020-10-06
 
-* [Text and lists - continued (Stefan Pletschacher)](004-text-and-lists-continued.md)   
+* [Text and lists - continued (Stefan Pletschacher)](004-text-and-lists-continued.md)  
+
+#### 2020-10-12
+
+* [Lists (Stefan Pletschacher)] (005-lists.md)  
