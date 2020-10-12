@@ -12,4 +12,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Progra
 
 #### 2020-10-05
 
-* [Objects and Classes (David Netwon)](003-objects-and-classes.md)  
+* [Objects and Classes (David Netwon)](003-objects-and-classes.md) 
+
+#### 2020-10-12
+
+* [Objects and Classes - Continued (David Newton)](004-objects-and-classes-continued.md)   
