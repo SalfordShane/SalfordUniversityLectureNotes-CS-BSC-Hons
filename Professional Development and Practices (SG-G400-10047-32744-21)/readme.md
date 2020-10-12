@@ -16,4 +16,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-10-06
 
-* [Data Protection (Nigel Linge)](004-data-protection.md)   
+* [Data Protection (Nigel Linge)](004-data-protection.md) 
+
+#### 2020-10-12
+
+* [IT Related Laws (Nigel Linge)](005-it-related-laws.md)    
