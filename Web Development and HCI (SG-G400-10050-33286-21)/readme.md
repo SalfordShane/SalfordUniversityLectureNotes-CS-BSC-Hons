@@ -24,4 +24,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Web De
 
 #### 2020-10-13
 
-* [Links and Images (Stefan Pletschacher)](006-links-and-images.md) 
+* [Links and Images (Stefan Pletschacher)](006-links-and-images.md)
+
+#### 2020-10-19
+
+* [Images (Stefan Pletschacher)](007-images.md) 
