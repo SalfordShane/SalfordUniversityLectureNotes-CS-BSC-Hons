@@ -17,4 +17,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Databa
 
 #### 2020-10-12
 
-* [More SQL (Chris Bryant)](005-more-sql.md) 
+* [More SQL (Chris Bryant)](005-more-sql.md)
+
+#### 2020-10-19
+
+* [Creating, Altering and Destroying tables (Chris Bryant)](006-creating-altering-and-destroying-tables.md) 
