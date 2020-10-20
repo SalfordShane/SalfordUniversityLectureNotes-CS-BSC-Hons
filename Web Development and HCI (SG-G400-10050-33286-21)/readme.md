@@ -28,4 +28,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Web De
 
 #### 2020-10-19
 
-* [Images (Stefan Pletschacher)](007-images.md) 
+* [Images (Stefan Pletschacher)](007-images.md)
+
+#### 2020-10-20
+
+* [ (Stefan Pletschacher)](008-image-formats.md) 
