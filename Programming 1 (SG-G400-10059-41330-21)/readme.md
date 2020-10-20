@@ -24,4 +24,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Progra
 
 #### 2020-10-19
 
-* [Class Definitions - Continued (David Newton)](006-class-definitions-continued.md)  
+* [Class Definitions - Continued (David Newton)](006-class-definitions-continued.md) 
+
+#### 2020-10-20
+
+* [Data Types (David Newton)](007-data-types.md)   
