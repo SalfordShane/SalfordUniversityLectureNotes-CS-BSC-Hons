@@ -13,3 +13,7 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 #### 2020-10-06
 
 * [Binary arithmetic (Norman Murray)](004-binary-arithmetic.md) 
+
+#### 2020-10-20
+
+( [Binary Floating Point Numbers (Norman Murray)](006-binary-floating-point-numbers.md)   
