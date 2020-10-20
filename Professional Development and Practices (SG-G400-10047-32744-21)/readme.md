@@ -20,4 +20,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-10-12
 
-* [IT Related Laws (Nigel Linge)](005-it-related-laws.md)    
+* [IT Related Laws (Nigel Linge)](005-it-related-laws.md)  
+
+#### 2020-10-20
+
+* [Project conception (Laura Milne)](006-project-conception.md)   
