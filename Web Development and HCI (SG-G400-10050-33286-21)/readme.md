@@ -32,4 +32,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Web De
 
 #### 2020-10-20
 
-* [ (Stefan Pletschacher)](008-image-formats.md) 
+* [Image formats (Stefan Pletschacher)](008-image-formats.md) 
+
+#### 2020-10-26
+
+* [Tables and forms (Stefan Pletschacher)](009-tables-and-forms.md)
