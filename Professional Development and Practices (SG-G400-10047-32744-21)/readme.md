@@ -24,4 +24,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-10-20
 
-* [Project conception (Laura Milne)](006-project-conception.md)   
+* [Project conception (Laura Milne)](006-project-conception.md)  
+
+#### 2020-10-26
+
+* [Initial timescales, critical paths and resource scheduling (nigel Linge)](007-timescales-and-scheduling.md)   
