@@ -16,4 +16,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-10-20
 
-( [Binary Floating Point Numbers (Norman Murray)](006-binary-floating-point-numbers.md)   
+[Binary Floating Point Numbers (Norman Murray)](005-binary-floating-point-numbers.md)  
+
+#### 2020-10-27
+
+[Logic gates and Linux Pipelines (Norman Murray)](006-logic.md)   
