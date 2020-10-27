@@ -37,3 +37,7 @@ The following are lecture notes taken after 2020-09-28 during the module "Web De
 #### 2020-10-26
 
 * [Tables and forms (Stefan Pletschacher)](009-tables-and-forms.md)
+
+#### 2020-10-27
+
+* [Forms (Stefan Pletschacher)](010-forms.md)
