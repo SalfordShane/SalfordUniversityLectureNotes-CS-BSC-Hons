@@ -28,4 +28,7 @@ The following are lecture notes taken after 2020-09-28 during the module "Profes
 
 #### 2020-10-26
 
-* [Initial timescales, critical paths and resource scheduling (nigel Linge)](007-timescales-and-scheduling.md)   
+* [Initial timescales, critical paths and resource scheduling (nigel Linge)](007-timescales-and-scheduling.md)  
+#### 2020-10-27
+
+* [Resource requirements (Laura Milne)](008-resource-requirements.md) 
