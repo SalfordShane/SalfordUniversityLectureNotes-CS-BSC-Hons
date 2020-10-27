@@ -32,4 +32,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Progra
 
 #### 2020-10-26
 
-* [Identifiers, Arithmetic and Booleans (David Newton)](008-identifiers-arithmetic-and-booleans.md)   
+* [Identifiers, Arithmetic and Booleans (David Newton)](008-identifiers-arithmetic-and-booleans.md)  
+
+#### 2020-10-27
+
+* [Primitive variables (David Newton)](009-primitive-variables.md)   
