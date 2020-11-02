@@ -40,4 +40,8 @@ The following are lecture notes taken after 2020-09-28 during the module "Web De
 
 #### 2020-10-27
 
-* [Forms (Stefan Pletschacher)](010-forms.md)
+* [Forms (Stefan Pletschacher)](010-forms.md)  
+
+#### 2020-11-02
+
+* [Assignment (Stegan Pletschacher)](011-assignment.md)  
