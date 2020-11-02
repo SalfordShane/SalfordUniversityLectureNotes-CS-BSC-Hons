@@ -22,3 +22,7 @@ The following are lecture notes taken after 2020-09-28 during the module "Databa
 #### 2020-10-19
 
 * [Creating, Altering and Destroying tables (Chris Bryant)](006-creating-altering-and-destroying-tables.md) 
+
+#### 2020-11-02
+
+* [Logical Database Models (Chris Bryant)](007-logical-database-models.md)  
